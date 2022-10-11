@@ -49,7 +49,7 @@ export class LoginComponent implements OnInit {
       this.error = '';
       
     }else{
-      this.error = 'Usuario incorrecto';
+      this.error = 'Usuario incorrecto'
     }
     }
 
